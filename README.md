@@ -11,9 +11,8 @@
 
 ### Experience
 - Performance Analyst @ Nan Ya Plastics Corp. USA (February 2025 - Present)
+- Data Analyst @ Children's Hosptital of Orange County (Capstone) (September 2024 - December 2024)
+- Graduate Data Analysis Assistant @ Spatial-Temporal Data Science Lab (UC Irvine) (June 2024 - September 2024) 
 - Accounting Analyst @ UQI Shipping Logistics (July 2022 - August 2023)
-- Data Analyst @ Children's Hosptital of Orange County (Capstone)
-- Graduate Data Analysis Assistant @ Spatial-Temporal Data Science Lab (UC Irvine)   
-
 
 
