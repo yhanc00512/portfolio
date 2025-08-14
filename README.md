@@ -1,3 +1,5 @@
+## Data Analyst
+
 ### Education
 - Master of Data Science | University of California, Irvine (December 2024)
 - Bachelor of Science in Mathematics | University of California, San Diego (June 2022)
