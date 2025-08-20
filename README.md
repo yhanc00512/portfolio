@@ -1,8 +1,10 @@
 ## Data Analyst
 
 ### Education
-- Master of Data Science | University of California, Irvine (December 2024)
-- Bachelor of Science in Mathematics | University of California, San Diego (June 2022)
+- University of California, Irvine
+  - Master of Data Science (December 2024)
+- University of California, San Diego
+  - Bachelor of Science in Mathematics (June 2022)
 
 ### Skills
 - Programming Language: SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Seaborn, Scikit-learn), R
