@@ -38,8 +38,12 @@
 
 
 ### Projects
-- British AirWay Visualization
-- Heart Disease Prediction
-- Machine Learning Emotional Classification
-- UCSD Transfer Admission Analysis
+**British AirWay Visualization**
+This Tableau dashboard visualizes British Airways customer reviews. Users can filter reviews by month, country, or aircraft type to explore average ratings for services like Food, Cabin Staff Service, and Entertainment. It provides insights into customer satisfaction across various services.
+**Heart Disease Prediction**
+This project developed Gaussian Naive Bayes and Logistic Regression models for heart disease prediction, achieving 91.67% accuracy. It involved data preprocessing and feature engineering, optimizing evaluation through threshold adjustments, and implementing visualizations.
+**Machine Learning Emotional Classification**
+This project developed a CNN-based model for emotion classification, achieving 70% validation accuracy on a complex image dataset. Robustness was enhanced with data augmentation and class weighting. TensorFlow/Keras was used for training set balancing, with ModelCheckpoint and EarlyStopping.
+**UCSD Transfer Admission Analysis**
+In this project, we analyzed if chosen community college affects UCSD transfer admission rates (2015-2021). Explored factors: major, socioeconomic status. Findings: community college choice significantly impacts UCSD admission rates.
 
