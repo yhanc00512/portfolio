@@ -41,6 +41,7 @@
 
 #### Steam Games Analysis — What Makes a Game Successful?
 [Open In Colab](https://colab.research.google.com/drive/1K6ko0GNik0BBSAEQxvyO315XCg2R2EAj?usp=sharing)
+
 This project performs an end-to-end exploratory data analysis on 1,470 top-performing Steam games, examining what drives commercial success, player retention, and review dynamics on one of the world's largest PC gaming platforms.
 
 The analysis is structured around three core questions:
@@ -52,7 +53,7 @@ Key findings include: pricing tier has surprisingly little impact on typical sal
 
 **Tools:** Python (pandas, matplotlib, seaborn) · Tableau
 **Dataset:** Steam Top 1495 Games (Kaggle) · 1,470 games · 29 features
-
+---
 #### British AirWay Visualization
 This Tableau dashboard visualizes British Airways customer reviews. Users can filter reviews by month, country, or aircraft type to explore average ratings for services like Food, Cabin Staff Service, and Entertainment. It provides insights into customer satisfaction across various services.
 
