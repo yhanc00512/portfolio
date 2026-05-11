@@ -1,10 +1,8 @@
 ## Data Analyst
 
 ### Education
-- University of California, Irvine
-  - Master of Data Science (December 2024)
-- University of California, San Diego
-  - Bachelor of Science in Mathematics (June 2022)
+- Master, Data Science | University of California, Irvine (_December 2024_)	
+- B.S., Mathematics | University of California, San Diego (_June 2022_)	
 
 ### Skills
 - Programming Language: SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Seaborn, Scikit-learn), R
@@ -52,6 +50,7 @@ The analysis is structured around three core questions:
 Key findings include: pricing tier has surprisingly little impact on typical sales; most games are one-and-done experiences with only 1 in 8 maintaining sustained long-term engagement; and neither critic scores nor player scores are meaningful predictors of commercial success (r ≈ 0.145 for both). A consistent theme throughout the analysis is that markers of success — discounts, DLC, high reviews — tend to reflect existing popularity rather than drive it.
 
 **Tools:** Python (pandas, matplotlib, seaborn) · Tableau
+
 **Dataset:** Steam Top 1495 Games (Kaggle) · 1,470 games · 29 features
 
 ---
