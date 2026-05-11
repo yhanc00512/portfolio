@@ -18,7 +18,7 @@
 - Developed forecasting models for profit margins, pricing, and production planning through comprehensive data analysis, improving forecast accuracy by 12% and supporting monthly budget planning.
 - Created interactive Tableau dashboards for real-time visualization of daily production and operational metrics, empowering plant management to monitor key indicators and make data-driven decisions effectively.
 
-**Data Analyst @ Children's Hosptital of Orange County (Capstone) (September 2024 - December 2024)**
+**Data Analyst @ Children's Hospital of Orange County (Capstone) (September 2024 - December 2024)**
 - Extracted, cleaned, and validated 17,000+ patient encounters across multiple datasets (medications, vital signs, labs) using pandas, resolving data inconsistencies and negative time calculations to ensure 99%+ data accuracy.
 - Conducted comprehensive EDA on time-series data spanning 72-hrs patient windows, analyzing vital sign trends and lab results to identify treatment patterns, discovering encounter duration as top predictor (0.214 importance).
 - Developed 58 analytical features from raw clinical data including statistical summaries and trend calculations, transforming complex data to reveal blood culture patterns and vital sign variability as key patient differentiators.
