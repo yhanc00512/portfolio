@@ -40,6 +40,8 @@
 #### Steam Games Analysis — What Makes a Game Successful?
 [Open In Colab](https://colab.research.google.com/drive/1K6ko0GNik0BBSAEQxvyO315XCg2R2EAj?usp=sharing)
 
+[Tableau](https://public.tableau.com/views/SteamGamesAnalysis_17785277929790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 This project performs an end-to-end exploratory data analysis on 1,470 top-performing Steam games, examining what drives commercial success, player retention, and review dynamics on one of the world's largest PC gaming platforms.
 
 The analysis is structured around three core questions:
